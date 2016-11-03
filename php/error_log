@@ -1,0 +1,234 @@
+[17-Nov-2013 04:31:32] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 17
+[17-Nov-2013 04:31:32] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 29
+[17-Nov-2013 04:32:51] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 17
+[17-Nov-2013 04:32:51] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 29
+[18-Nov-2013 16:30:31] PHP Fatal error:  Call to undefined function  clean() in /home6/eyesprop/public_html/php/Services/UserService.php on line 14
+[18-Nov-2013 16:31:27] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 17
+[18-Nov-2013 16:32:00] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 17
+[18-Nov-2013 16:32:41] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 17
+[18-Nov-2013 16:37:33] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 17
+[18-Nov-2013 16:38:23] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 17
+[18-Nov-2013 16:41:02] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 17
+[19-Nov-2013 04:43:27] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 117
+[19-Nov-2013 04:43:27] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 126
+[19-Nov-2013 04:43:35] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 117
+[19-Nov-2013 04:43:35] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 126
+[19-Nov-2013 04:45:56] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 117
+[19-Nov-2013 04:45:56] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 126
+[19-Nov-2013 04:48:47] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 117
+[19-Nov-2013 04:48:47] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 126
+[21-Nov-2013 20:34:12] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 223
+[21-Nov-2013 20:40:29] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 223
+[21-Nov-2013 20:41:18] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 223
+[21-Nov-2013 20:47:47] PHP Fatal error:  Cannot use object of type stdClass as array in /home6/eyesprop/public_html/php/Services/UserService.php on line 227
+[21-Nov-2013 20:49:03] PHP Fatal error:  Cannot use object of type stdClass as array in /home6/eyesprop/public_html/php/Services/UserService.php on line 227
+[21-Nov-2013 20:52:18] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 223
+[21-Nov-2013 20:52:24] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 223
+[21-Nov-2013 20:52:29] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 223
+[21-Nov-2013 20:53:27] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 223
+[21-Nov-2013 20:53:35] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 223
+[21-Nov-2013 20:56:02] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 223
+[21-Nov-2013 20:57:59] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 223
+[21-Nov-2013 22:09:20] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 237
+[21-Nov-2013 22:13:40] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 224
+[21-Nov-2013 22:47:39] PHP Fatal error:  Cannot use object of type stdClass as array in /home6/eyesprop/public_html/php/Services/UserService.php on line 228
+[21-Nov-2013 22:48:58] PHP Fatal error:  Cannot use object of type stdClass as array in /home6/eyesprop/public_html/php/Services/UserService.php on line 228
+[21-Nov-2013 23:04:47] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 227
+[22-Nov-2013 00:02:38] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 227
+[22-Nov-2013 00:24:13] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 229
+[22-Nov-2013 00:24:57] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 229
+[28-Nov-2013 20:26:20] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 289
+[28-Nov-2013 20:26:39] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 289
+[28-Nov-2013 20:27:19] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 289
+[28-Nov-2013 20:29:06] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 289
+[01-Dec-2013 05:23:32] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 290
+[01-Dec-2013 05:23:32] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 290
+[01-Dec-2013 19:36:39] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home6/eyesprop/public_html/php/Services/UserService.php on line 91
+[01-Dec-2013 19:37:06] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home6/eyesprop/public_html/php/Services/UserService.php on line 91
+[01-Dec-2013 19:38:52] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home6/eyesprop/public_html/php/Services/UserService.php on line 91
+[01-Dec-2013 19:40:35] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home6/eyesprop/public_html/php/Services/UserService.php on line 91
+[01-Dec-2013 19:41:45] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home6/eyesprop/public_html/php/Services/UserService.php on line 91
+[01-Dec-2013 19:58:23] PHP Fatal error:  Uncaught exception 'Zend_Amf_Exception' with message 'Unsupported type marker: 17' in /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf3/Deserializer.php:111
+Stack trace:
+#0 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf3/Deserializer.php(382): Zend_Amf_Parse_Amf3_Deserializer->readTypeMarker()
+#1 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf3/Deserializer.php(103): Zend_Amf_Parse_Amf3_Deserializer->readObject()
+#2 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf0/Deserializer.php(293): Zend_Amf_Parse_Amf3_Deserializer->readTypeMarker()
+#3 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf0/Deserializer.php(130): Zend_Amf_Parse_Amf0_Deserializer->readAmf3TypeMarker()
+#4 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf0/Deserializer.php(217): Zend_Amf_Parse_Amf0_Deserializer->readTypeMarker()
+#5 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf0/Deserializer.php(106): Zend_Amf_Parse_Amf0_Deserializer->readArray()
+#6 /home6/eyesprop/public_html/php/Zend/Amf/Request.php(173): Zend_Amf_Parse_Amf0_D in /home6/eyesprop/public_html/php/Zend/Amf/Request.php on line 176
+[01-Dec-2013 20:00:38] PHP Fatal error:  Uncaught exception 'Zend_Amf_Exception' with message 'Unsupported type marker: 17' in /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf3/Deserializer.php:111
+Stack trace:
+#0 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf3/Deserializer.php(382): Zend_Amf_Parse_Amf3_Deserializer->readTypeMarker()
+#1 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf3/Deserializer.php(103): Zend_Amf_Parse_Amf3_Deserializer->readObject()
+#2 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf0/Deserializer.php(293): Zend_Amf_Parse_Amf3_Deserializer->readTypeMarker()
+#3 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf0/Deserializer.php(130): Zend_Amf_Parse_Amf0_Deserializer->readAmf3TypeMarker()
+#4 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf0/Deserializer.php(217): Zend_Amf_Parse_Amf0_Deserializer->readTypeMarker()
+#5 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf0/Deserializer.php(106): Zend_Amf_Parse_Amf0_Deserializer->readArray()
+#6 /home6/eyesprop/public_html/php/Zend/Amf/Request.php(173): Zend_Amf_Parse_Amf0_D in /home6/eyesprop/public_html/php/Zend/Amf/Request.php on line 176
+[01-Dec-2013 20:03:43] PHP Fatal error:  Uncaught exception 'Zend_Amf_Exception' with message 'Unsupported type marker: 17' in /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf3/Deserializer.php:111
+Stack trace:
+#0 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf3/Deserializer.php(382): Zend_Amf_Parse_Amf3_Deserializer->readTypeMarker()
+#1 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf3/Deserializer.php(103): Zend_Amf_Parse_Amf3_Deserializer->readObject()
+#2 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf0/Deserializer.php(293): Zend_Amf_Parse_Amf3_Deserializer->readTypeMarker()
+#3 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf0/Deserializer.php(130): Zend_Amf_Parse_Amf0_Deserializer->readAmf3TypeMarker()
+#4 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf0/Deserializer.php(217): Zend_Amf_Parse_Amf0_Deserializer->readTypeMarker()
+#5 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf0/Deserializer.php(106): Zend_Amf_Parse_Amf0_Deserializer->readArray()
+#6 /home6/eyesprop/public_html/php/Zend/Amf/Request.php(173): Zend_Amf_Parse_Amf0_D in /home6/eyesprop/public_html/php/Zend/Amf/Request.php on line 176
+[01-Dec-2013 20:04:31] PHP Fatal error:  Uncaught exception 'Zend_Amf_Exception' with message 'Unsupported type marker: 17' in /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf3/Deserializer.php:111
+Stack trace:
+#0 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf3/Deserializer.php(382): Zend_Amf_Parse_Amf3_Deserializer->readTypeMarker()
+#1 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf3/Deserializer.php(103): Zend_Amf_Parse_Amf3_Deserializer->readObject()
+#2 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf0/Deserializer.php(293): Zend_Amf_Parse_Amf3_Deserializer->readTypeMarker()
+#3 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf0/Deserializer.php(130): Zend_Amf_Parse_Amf0_Deserializer->readAmf3TypeMarker()
+#4 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf0/Deserializer.php(217): Zend_Amf_Parse_Amf0_Deserializer->readTypeMarker()
+#5 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf0/Deserializer.php(106): Zend_Amf_Parse_Amf0_Deserializer->readArray()
+#6 /home6/eyesprop/public_html/php/Zend/Amf/Request.php(173): Zend_Amf_Parse_Amf0_D in /home6/eyesprop/public_html/php/Zend/Amf/Request.php on line 176
+[01-Dec-2013 20:05:22] PHP Fatal error:  Uncaught exception 'Zend_Amf_Exception' with message 'Unsupported type marker: 17' in /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf3/Deserializer.php:111
+Stack trace:
+#0 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf3/Deserializer.php(382): Zend_Amf_Parse_Amf3_Deserializer->readTypeMarker()
+#1 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf3/Deserializer.php(103): Zend_Amf_Parse_Amf3_Deserializer->readObject()
+#2 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf0/Deserializer.php(293): Zend_Amf_Parse_Amf3_Deserializer->readTypeMarker()
+#3 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf0/Deserializer.php(130): Zend_Amf_Parse_Amf0_Deserializer->readAmf3TypeMarker()
+#4 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf0/Deserializer.php(217): Zend_Amf_Parse_Amf0_Deserializer->readTypeMarker()
+#5 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf0/Deserializer.php(106): Zend_Amf_Parse_Amf0_Deserializer->readArray()
+#6 /home6/eyesprop/public_html/php/Zend/Amf/Request.php(173): Zend_Amf_Parse_Amf0_D in /home6/eyesprop/public_html/php/Zend/Amf/Request.php on line 176
+[01-Dec-2013 20:07:10] PHP Fatal error:  Uncaught exception 'Zend_Amf_Exception' with message 'Unsupported type marker: 17' in /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf3/Deserializer.php:111
+Stack trace:
+#0 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf3/Deserializer.php(382): Zend_Amf_Parse_Amf3_Deserializer->readTypeMarker()
+#1 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf3/Deserializer.php(103): Zend_Amf_Parse_Amf3_Deserializer->readObject()
+#2 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf0/Deserializer.php(293): Zend_Amf_Parse_Amf3_Deserializer->readTypeMarker()
+#3 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf0/Deserializer.php(130): Zend_Amf_Parse_Amf0_Deserializer->readAmf3TypeMarker()
+#4 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf0/Deserializer.php(217): Zend_Amf_Parse_Amf0_Deserializer->readTypeMarker()
+#5 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf0/Deserializer.php(106): Zend_Amf_Parse_Amf0_Deserializer->readArray()
+#6 /home6/eyesprop/public_html/php/Zend/Amf/Request.php(173): Zend_Amf_Parse_Amf0_D in /home6/eyesprop/public_html/php/Zend/Amf/Request.php on line 176
+[01-Dec-2013 20:08:13] PHP Fatal error:  Uncaught exception 'Zend_Amf_Exception' with message 'Unsupported type marker: 17' in /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf3/Deserializer.php:111
+Stack trace:
+#0 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf3/Deserializer.php(382): Zend_Amf_Parse_Amf3_Deserializer->readTypeMarker()
+#1 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf3/Deserializer.php(103): Zend_Amf_Parse_Amf3_Deserializer->readObject()
+#2 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf0/Deserializer.php(293): Zend_Amf_Parse_Amf3_Deserializer->readTypeMarker()
+#3 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf0/Deserializer.php(130): Zend_Amf_Parse_Amf0_Deserializer->readAmf3TypeMarker()
+#4 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf0/Deserializer.php(217): Zend_Amf_Parse_Amf0_Deserializer->readTypeMarker()
+#5 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf0/Deserializer.php(106): Zend_Amf_Parse_Amf0_Deserializer->readArray()
+#6 /home6/eyesprop/public_html/php/Zend/Amf/Request.php(173): Zend_Amf_Parse_Amf0_D in /home6/eyesprop/public_html/php/Zend/Amf/Request.php on line 176
+[01-Dec-2013 20:11:47] PHP Fatal error:  Uncaught exception 'Zend_Amf_Exception' with message 'Unsupported type marker: 17' in /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf3/Deserializer.php:111
+Stack trace:
+#0 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf3/Deserializer.php(382): Zend_Amf_Parse_Amf3_Deserializer->readTypeMarker()
+#1 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf3/Deserializer.php(103): Zend_Amf_Parse_Amf3_Deserializer->readObject()
+#2 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf0/Deserializer.php(293): Zend_Amf_Parse_Amf3_Deserializer->readTypeMarker()
+#3 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf0/Deserializer.php(130): Zend_Amf_Parse_Amf0_Deserializer->readAmf3TypeMarker()
+#4 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf0/Deserializer.php(217): Zend_Amf_Parse_Amf0_Deserializer->readTypeMarker()
+#5 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf0/Deserializer.php(106): Zend_Amf_Parse_Amf0_Deserializer->readArray()
+#6 /home6/eyesprop/public_html/php/Zend/Amf/Request.php(173): Zend_Amf_Parse_Amf0_D in /home6/eyesprop/public_html/php/Zend/Amf/Request.php on line 176
+[01-Dec-2013 20:13:46] PHP Fatal error:  Uncaught exception 'Zend_Amf_Exception' with message 'Unsupported type marker: 17' in /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf3/Deserializer.php:111
+Stack trace:
+#0 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf3/Deserializer.php(382): Zend_Amf_Parse_Amf3_Deserializer->readTypeMarker()
+#1 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf3/Deserializer.php(103): Zend_Amf_Parse_Amf3_Deserializer->readObject()
+#2 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf0/Deserializer.php(293): Zend_Amf_Parse_Amf3_Deserializer->readTypeMarker()
+#3 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf0/Deserializer.php(130): Zend_Amf_Parse_Amf0_Deserializer->readAmf3TypeMarker()
+#4 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf0/Deserializer.php(217): Zend_Amf_Parse_Amf0_Deserializer->readTypeMarker()
+#5 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf0/Deserializer.php(106): Zend_Amf_Parse_Amf0_Deserializer->readArray()
+#6 /home6/eyesprop/public_html/php/Zend/Amf/Request.php(173): Zend_Amf_Parse_Amf0_D in /home6/eyesprop/public_html/php/Zend/Amf/Request.php on line 176
+[01-Dec-2013 20:16:03] PHP Fatal error:  Uncaught exception 'Zend_Amf_Exception' with message 'Unsupported type marker: 17' in /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf3/Deserializer.php:111
+Stack trace:
+#0 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf3/Deserializer.php(382): Zend_Amf_Parse_Amf3_Deserializer->readTypeMarker()
+#1 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf3/Deserializer.php(103): Zend_Amf_Parse_Amf3_Deserializer->readObject()
+#2 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf0/Deserializer.php(293): Zend_Amf_Parse_Amf3_Deserializer->readTypeMarker()
+#3 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf0/Deserializer.php(130): Zend_Amf_Parse_Amf0_Deserializer->readAmf3TypeMarker()
+#4 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf0/Deserializer.php(217): Zend_Amf_Parse_Amf0_Deserializer->readTypeMarker()
+#5 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf0/Deserializer.php(106): Zend_Amf_Parse_Amf0_Deserializer->readArray()
+#6 /home6/eyesprop/public_html/php/Zend/Amf/Request.php(173): Zend_Amf_Parse_Amf0_D in /home6/eyesprop/public_html/php/Zend/Amf/Request.php on line 176
+[01-Dec-2013 20:19:19] PHP Fatal error:  Uncaught exception 'Zend_Amf_Exception' with message 'Unsupported type marker: 17' in /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf3/Deserializer.php:111
+Stack trace:
+#0 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf3/Deserializer.php(382): Zend_Amf_Parse_Amf3_Deserializer->readTypeMarker()
+#1 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf3/Deserializer.php(103): Zend_Amf_Parse_Amf3_Deserializer->readObject()
+#2 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf0/Deserializer.php(293): Zend_Amf_Parse_Amf3_Deserializer->readTypeMarker()
+#3 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf0/Deserializer.php(130): Zend_Amf_Parse_Amf0_Deserializer->readAmf3TypeMarker()
+#4 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf0/Deserializer.php(217): Zend_Amf_Parse_Amf0_Deserializer->readTypeMarker()
+#5 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf0/Deserializer.php(106): Zend_Amf_Parse_Amf0_Deserializer->readArray()
+#6 /home6/eyesprop/public_html/php/Zend/Amf/Request.php(173): Zend_Amf_Parse_Amf0_D in /home6/eyesprop/public_html/php/Zend/Amf/Request.php on line 176
+[01-Dec-2013 20:21:24] PHP Fatal error:  Uncaught exception 'Zend_Amf_Exception' with message 'Unsupported type marker: 17' in /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf3/Deserializer.php:111
+Stack trace:
+#0 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf3/Deserializer.php(382): Zend_Amf_Parse_Amf3_Deserializer->readTypeMarker()
+#1 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf3/Deserializer.php(103): Zend_Amf_Parse_Amf3_Deserializer->readObject()
+#2 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf0/Deserializer.php(293): Zend_Amf_Parse_Amf3_Deserializer->readTypeMarker()
+#3 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf0/Deserializer.php(130): Zend_Amf_Parse_Amf0_Deserializer->readAmf3TypeMarker()
+#4 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf0/Deserializer.php(217): Zend_Amf_Parse_Amf0_Deserializer->readTypeMarker()
+#5 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf0/Deserializer.php(106): Zend_Amf_Parse_Amf0_Deserializer->readArray()
+#6 /home6/eyesprop/public_html/php/Zend/Amf/Request.php(173): Zend_Amf_Parse_Amf0_D in /home6/eyesprop/public_html/php/Zend/Amf/Request.php on line 176
+[01-Dec-2013 20:25:32] PHP Fatal error:  Uncaught exception 'Zend_Amf_Exception' with message 'Unsupported type marker: 17' in /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf3/Deserializer.php:111
+Stack trace:
+#0 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf3/Deserializer.php(382): Zend_Amf_Parse_Amf3_Deserializer->readTypeMarker()
+#1 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf3/Deserializer.php(103): Zend_Amf_Parse_Amf3_Deserializer->readObject()
+#2 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf0/Deserializer.php(293): Zend_Amf_Parse_Amf3_Deserializer->readTypeMarker()
+#3 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf0/Deserializer.php(130): Zend_Amf_Parse_Amf0_Deserializer->readAmf3TypeMarker()
+#4 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf0/Deserializer.php(217): Zend_Amf_Parse_Amf0_Deserializer->readTypeMarker()
+#5 /home6/eyesprop/public_html/php/Zend/Amf/Parse/Amf0/Deserializer.php(106): Zend_Amf_Parse_Amf0_Deserializer->readArray()
+#6 /home6/eyesprop/public_html/php/Zend/Amf/Request.php(173): Zend_Amf_Parse_Amf0_D in /home6/eyesprop/public_html/php/Zend/Amf/Request.php on line 176
+[03-Dec-2013 00:04:51] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 295
+[21-Apr-2014 09:34:53] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 199
+[21-Apr-2014 09:34:53] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 88
+[21-Apr-2014 09:34:53] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 210
+[21-Apr-2014 09:34:53] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 108
+[21-Apr-2014 09:34:54] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 253
+[21-Apr-2014 09:34:54] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 265
+[21-Apr-2014 09:35:14] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 224
+[21-Apr-2014 09:35:14] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 238
+[21-Apr-2014 09:36:09] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 199
+[21-Apr-2014 09:36:09] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 88
+[21-Apr-2014 09:36:09] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 210
+[21-Apr-2014 09:36:09] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 108
+[21-Apr-2014 09:36:10] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 253
+[21-Apr-2014 09:36:10] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 265
+[21-Apr-2014 09:39:32] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 88
+[21-Apr-2014 09:39:32] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 108
+[21-Apr-2014 09:39:32] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 199
+[21-Apr-2014 09:39:32] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 210
+[21-Apr-2014 09:39:34] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 253
+[21-Apr-2014 09:39:34] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 265
+[21-Apr-2014 09:53:42] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 199
+[21-Apr-2014 09:53:42] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 210
+[21-Apr-2014 09:53:42] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 88
+[21-Apr-2014 09:53:42] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 108
+[21-Apr-2014 09:53:43] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 253
+[21-Apr-2014 09:53:43] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 265
+[21-Apr-2014 09:54:03] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 224
+[21-Apr-2014 09:54:03] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 238
+[21-Apr-2014 09:54:13] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 199
+[21-Apr-2014 09:54:13] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 210
+[21-Apr-2014 09:54:13] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 88
+[21-Apr-2014 09:54:13] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 108
+[21-Apr-2014 09:54:14] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 253
+[21-Apr-2014 09:54:14] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 265
+[21-Apr-2014 09:55:51] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 199
+[21-Apr-2014 09:55:51] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 210
+[21-Apr-2014 09:55:51] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 88
+[21-Apr-2014 09:55:51] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 108
+[21-Apr-2014 09:55:52] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 253
+[21-Apr-2014 09:55:52] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 265
+[21-Apr-2014 09:56:54] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 88
+[21-Apr-2014 09:56:54] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 108
+[21-Apr-2014 09:56:54] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 199
+[21-Apr-2014 09:56:54] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 210
+[21-Apr-2014 09:56:59] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 253
+[21-Apr-2014 09:56:59] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 265
+[21-Apr-2014 10:33:40] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 199
+[21-Apr-2014 10:33:40] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 210
+[21-Apr-2014 10:33:40] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 88
+[21-Apr-2014 10:33:40] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 108
+[21-Apr-2014 10:33:41] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 253
+[21-Apr-2014 10:33:41] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 265
+[21-Apr-2014 10:48:08] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 199
+[21-Apr-2014 10:48:08] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 210
+[21-Apr-2014 10:48:08] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 88
+[21-Apr-2014 10:48:08] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 108
+[21-Apr-2014 10:48:09] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 253
+[21-Apr-2014 10:48:09] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 265
+[21-Apr-2014 10:50:36] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 199
+[21-Apr-2014 10:50:36] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 210
+[21-Apr-2014 10:51:21] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 88
+[21-Apr-2014 10:51:21] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 108
+[21-Apr-2014 10:51:22] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 199
+[21-Apr-2014 10:51:22] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 210
+[21-Apr-2014 10:51:22] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 253
+[21-Apr-2014 10:51:22] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home6/eyesprop/public_html/php/Services/UserService.php on line 265
